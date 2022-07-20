@@ -1,9 +1,12 @@
-# Command : 
-    $ pkg update & upgrade
+# Perintah termux :
+    $ pkg update & pkg upgrade
     $ pkg install git
-    $ pkg install python
-    $ pip install requests
+    $ pkg install python3
     $ git clone https://github.com/RozhakXD/Traodoisub
     $ cd Traodoisub
+    $ pip3 install -r requirement.txt
+    $ python3 Run.py
+# Update tools :
+    $ cd $HOME/Traodoisub
     $ git pull
-    $ python Run.py
+    $ python3 Run.py
