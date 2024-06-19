@@ -1,3 +1,2 @@
 requests
-rich
-bs4
+futures
