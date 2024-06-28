@@ -3,7 +3,7 @@
 ![BlueSky](https://github.com/RozhakXD/BlueSky/assets/65714340/5a0b708e-ccaf-4049-9d14-739042fe6ac9)
 
 ## Description
-The BlueSky brute force tool is a sophisticated Python-based program specifically designed for educational purposes only. This powerful tool enables users to perform a wide range of actions on the BlueSky platform.
+BlueSky is an advanced Python-based brute force program specifically designed for educational purposes only. This powerful tool allows users to perform various actions on the BlueSky platform.
 
 The BlueSky brute force tool is built using a combination of Python scripts and JSON files to store and manage data. The tool's architecture is designed to be modular, allowing users to easily modify and extend its functionality. 
 
@@ -55,10 +55,10 @@ By customizing the password setting, users can modify the tool's behavior and po
 Note: **Remember to use strong and unique passwords to avoid compromising your account security.**
 
 ## Error Handling
-- If you encounter issues with dumping IDs, you can make sure the target has a lot of followers/following and make sure the username is correct!
+- If you encounter any errors while hacking, you can just ignore them, we found that if you still need airplane mode then the hack runs smoothly!
 - If you experience issues with login or token validation, you can try to change the BlueSky token and make sure the token is correct!
 - If you don't get results, this is because the target is not good enough or has a password that is difficult to guess. Maybe you chose the wrong password list!
-- If you encounter any errors while hacking, you can just ignore them, we found that if you still need airplane mode then the hack runs smoothly!
+- If you encounter issues with dumping IDs, you can make sure the target has a lot of followers/following and make sure the username is correct!
 
 ## Screenshot
 ![Twitter](https://github.com/RozhakXD/BlueSky/assets/65714340/bee022e3-8696-49f8-9c08-903321d7af98)
