@@ -55,8 +55,8 @@ By customizing the password setting, users can modify the tool's behavior and po
 Note: **Remember to use strong and unique passwords to avoid compromising your account security.**
 
 ## Error Handling
-- If you encounter any errors while hacking, you can just ignore them, we found that if you still need airplane mode then the hack runs smoothly!
 - If you experience issues with login or token validation, you can try to change the BlueSky token and make sure the token is correct!
+- If you encounter any errors while hacking, you can just ignore them, we found that if you still need airplane mode then the hack runs smoothly!
 - If you don't get results, this is because the target is not good enough or has a password that is difficult to guess. Maybe you chose the wrong password list!
 - If you encounter issues with dumping IDs, you can make sure the target has a lot of followers/following and make sure the username is correct!
 
