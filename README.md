@@ -28,6 +28,32 @@ By using the BlueSky brute force tool, users can gain a deeper understanding of 
   $ ./Run
   ```
 
+## Customizing User Agent Settings
+By default, the BlueSky brute force tool uses a default user agent string to interact with the BlueSky API. However, users can customize this setting by modifying the Useragent.json file. To do so, follow these steps:
+1. Open the `Useragent.json` file in a text editor, such as `nano` or `vim`, in the Termux terminal.
+2. Locate the `"COMMENT"` section and modify the `"TYPE"` field to choose between `SINGLE` or `RANDOM` user agent settings.
+
+```json
+{
+    "TYPE": "RANDOM",
+}
+```
+By customizing the user agent, users can change the behavior of the tool and potentially avoid detection by the BlueSky API. However, it is important to use this feature responsibly and within legal limits.
+
+## Customizing Password Settings
+By default, the BlueSky brute force tool uses a default list of passwords to attempt login to the BlueSky API. However, users can customize this setting by modifying the Password.json file. To do so, follow these steps:
+1. Open the `Password.json` file in a text editor, such as `nano` or `vim`, in the Termux terminal.
+2. Locate the `"COMMENT"` section and modify the `"TYPE"` field to choose between `DEFAULT`, `COMPLETE`, or `MANUAL` password list settings.
+```json
+{
+    "LIST_PASSWORD": "I Love BlueSky,123456,Bismillah",
+    "TYPE": "MANUAL"
+}
+```
+By customizing the password setting, users can modify the tool's behavior and potentially improve the success rate of brute force attacks. However, it is essential to use this feature responsibly and within the bounds of the law.
+
+Note: **Remember to use strong and unique passwords to avoid compromising your account security.**
+
 ## Error Handling
 - If you encounter issues with dumping IDs, you can make sure the target has a lot of followers/following and make sure the username is correct!
 - If you experience issues with login or token validation, you can try to change the BlueSky token and make sure the token is correct!
