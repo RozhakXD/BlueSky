@@ -2,3 +2,4 @@ requests
 futures
 emoji
 pyjwt
+httpx
