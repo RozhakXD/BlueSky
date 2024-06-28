@@ -38,4 +38,5 @@ By using the BlueSky brute force tool, users can gain a deeper understanding of 
 ![Twitter](https://github.com/RozhakXD/BlueSky/assets/65714340/bee022e3-8696-49f8-9c08-903321d7af98)
 
 ## Disclaimer
-This tool is for educational purposes only and should not be used to harm or exploit others. Using this tool to brute force or hack into someone's account without their consent is illegal and unethical. Be cautious when using this tool, as it may cause harm to your own account or others. The author of this tool is not responsible for any misuse or harm caused by this tool. Use at your own risk. I hope this description provides more detail about the BlueSky brute force tool! Let me know if you have any further requests.
+This tool is for educational purposes only and should not be used to harm or exploit others. Using this tool to brute force or hack into someone's account without their consent is illegal and unethical. Be cautious when using this tool, as it may cause harm to your own account or others. The author of this tool is not responsible for any misuse or harm caused by this tool. Use at your own risk.
+I hope this description provides more detail about the BlueSky brute force tool! Let me know if you have any further requests.
