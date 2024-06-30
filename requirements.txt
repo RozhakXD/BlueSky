@@ -2,3 +2,4 @@ httpx==0.13.3
 futures
 emoji
 pyjwt
+idna
