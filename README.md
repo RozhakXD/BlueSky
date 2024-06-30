@@ -10,7 +10,7 @@ The BlueSky brute force tool is built using a combination of Python scripts and 
 By using the BlueSky brute force tool, users can gain a deeper understanding of the importance of security and the potential consequences of weak passwords. However, it is essential to use this tool responsibly and within the bounds of the law.
 
 ## Installation
-- **Linux - Termux**
+- **Linux - [Termux](https://drive.google.com/file/d/1dHqQe_WNWVp0qXTRPqYId_J3YVJ6taHr/view?usp=sharing)**
 
   ```
   $ pkg update -y && pkg upgrade -y
