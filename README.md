@@ -61,7 +61,7 @@ Note: **Remember to use strong and unique passwords to avoid compromising your a
 - If you encounter issues with dumping IDs, you can make sure the target has a lot of followers/following and make sure the username is correct!
 
 ## Screenshot
-![Twitter](https://github.com/RozhakXD/BlueSky/assets/65714340/bee022e3-8696-49f8-9c08-903321d7af98)
+![BlueSky](https://github.com/user-attachments/assets/6c5a92a0-6e58-4dea-8876-2052496d8747)
 
 ## Disclaimer
 This tool is for educational purposes only and should not be used to harm or exploit others. Using this tool to brute force or hack into someone's account without their consent is illegal and unethical. Be cautious when using this tool, as it may cause harm to your own account or others. The author of this tool is not responsible for any misuse or harm caused by this tool. Use at your own risk.
