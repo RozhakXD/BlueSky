@@ -1,5 +1,5 @@
 httpx==0.13.3
 futures
 emoji
-pyjwt
+pyjwt==2.0.0
 idna
