@@ -3,3 +3,4 @@ futures
 emoji
 pyjwt==2.0.0
 idna
+rich
