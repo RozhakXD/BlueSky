@@ -1,6 +1,6 @@
-# BlueSky Brute Force
+# SkyHack
+![SkyHack Image](https://github.com/user-attachments/assets/67d69af9-3060-41e1-8c8f-804047775a23)
 
-![BlueSky](https://github.com/RozhakXD/BlueSky/assets/65714340/5a0b708e-ccaf-4049-9d14-739042fe6ac9)
 
 ## Description
 BlueSky is an advanced Python-based brute force program specifically designed for educational purposes only. This powerful tool allows users to perform various actions on the BlueSky platform.
@@ -15,8 +15,8 @@ By using the BlueSky brute force tool, users can gain a deeper understanding of 
   ```
   $ pkg update -y && pkg upgrade -y
   $ pkg install git python-pip
-  $ git clone https://github.com/RozhakXD/BlueSky
-  $ cd "BlueSky"
+  $ git clone https://github.com/RozhakXD/SkyHack
+  $ cd "SkyHack"
   $ python -m pip install -r requirements.txt
   $ chmod +x Run
   $ ./Run
@@ -24,7 +24,7 @@ By using the BlueSky brute force tool, users can gain a deeper understanding of 
 
 - **Running on Termux**
   ```
-  $ cd "$HOME/BlueSky"
+  $ cd "$HOME/SkyHack"
   $ ./Run
   ```
 
